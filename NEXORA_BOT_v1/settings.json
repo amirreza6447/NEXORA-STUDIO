@@ -1,0 +1,84 @@
+{
+    "welcome": {
+        "enabled": true,
+        "channel_id": 1537579943893016609
+    },
+    "leave": {
+        "enabled": true,
+        "channel_id": 1539697715217436733
+    },
+    "autorole": {
+        "enabled": true,
+        "member_role_id": 1541497527633969282,
+        "bot_role_id": 1537579929573793915
+    },
+    "logs": {
+        "enabled": true,
+        "channel_id": 1540478117322297394
+    },
+    "ticket": {
+        "enabled": true,
+        "support_role_id": 1541495555061059624,
+        "category_id": 1539665374637850776
+    },
+    "giveaway": {
+        "enabled": true,
+        "channel_id": 1539668608341385377
+    },
+    "1539043824469413948": {
+        "welcome": {
+            "enabled": true,
+            "channel_id": 1539666014755758200
+        },
+        "leave": {
+            "enabled": true,
+            "channel_id": null
+        },
+        "autorole": {
+            "enabled": true,
+            "member_role_id": 1541497527633969282,
+            "bot_role_id": 1541497807133999104
+        },
+        "logs": {
+            "enabled": true,
+            "channel_id": 1539669205958533271
+        },
+        "ticket": {
+            "enabled": true,
+            "support_role_id": 1541495743104155739,
+            "category_id": null
+        },
+        "giveaway": {
+            "enabled": true,
+            "channel_id": 1539668608341385377
+        }
+    },
+    "1537575549445083270": {
+        "welcome": {
+            "enabled": true,
+            "channel_id": 1537579943893016609
+        },
+        "leave": {
+            "enabled": true,
+            "channel_id": 1539697715217436733
+        },
+        "autorole": {
+            "enabled": true,
+            "member_role_id": 1537579928491401216,
+            "bot_role_id": 1537579929573793915
+        },
+        "logs": {
+            "enabled": true,
+            "channel_id": 1540478117322297394
+        },
+        "ticket": {
+            "enabled": true,
+            "support_role_id": 1537579922661576714,
+            "category_id": 1537579942424875041
+        },
+        "giveaway": {
+            "enabled": true,
+            "channel_id": 1537579967309807778
+        }
+    }
+}
